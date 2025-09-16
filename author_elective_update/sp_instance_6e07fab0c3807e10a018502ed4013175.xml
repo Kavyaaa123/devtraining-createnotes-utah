@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>tasks</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e607fab0c3807e10a018502ed4013170</sp_column>
+        <sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 14:16:18</sys_created_on>
+        <sys_id>6e07fab0c3807e10a018502ed4013175</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_instance_6e07fab0c3807e10a018502ed4013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:12:15</sys_updated_on>
+        <title>News</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=6e07fab0c3807e10a018502ed4013175"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>d533ffb5db39751438f1172913961937</instance_id>
+        <instance_name>dev183088</instance_name>
+        <name>sp_instance_6e07fab0c3807e10a018502ed4013175</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph>tasks</glyph><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">e607fab0c3807e10a018502ed4013170</sp_column><sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-15 14:16:18</sys_created_on><sys_id>6e07fab0c3807e10a018502ed4013175</sys_id><sys_mod_count>2</sys_mod_count><sys_name>News</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_instance_6e07fab0c3807e10a018502ed4013175</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-15 15:12:15</sys_updated_on><title>News</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=6e07fab0c3807e10a018502ed4013175"/></record_update>]]></payload>
+        <payload_hash>-1348784848</payload_hash>
+        <record_name>News</record_name>
+        <reverted_from/>
+        <source>b272c0e0c300fa10a018502ed40131b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:12:15</sys_created_on>
+        <sys_id>5ad38fb0c3c07e10a018502ed4013199</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994def0baf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:12:15</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>ded38fb044c07e10fc681f37b89d5398</update_guid>
+        <update_guid_history>ded38fb044c07e10fc681f37b89d5398:-1348784848,2d8ab2f484807e102920afc0462be844:-1491064689,6607fab0d3807e10639a4c3ed5c6fc77:-1348784848</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="News">d3d34738c3807e10a018502ed4013176</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:12:19</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>206f6e4ae3ad491586f6c2d3960be531</sys_id>
+        <sys_metadata>6e07fab0c3807e10a018502ed4013175</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_instance_6e07fab0c3807e10a018502ed4013175</sys_update_name>
+        <sys_update_version display_value="sp_instance_6e07fab0c3807e10a018502ed4013175">5ad38fb0c3c07e10a018502ed4013199</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:12:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
